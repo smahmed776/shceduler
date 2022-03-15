@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+button.active {
+  border: 1px solid grey;
+  color: grey
+}
+button.active span{
+  color: grey
+}
+
+.available {
+  color: blue
+}
+.not-available{
+  color: grey
+}
+button.dateActive {
+  border: 1px solid blue;
+}
